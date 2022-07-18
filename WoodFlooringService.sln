@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoodFlooringService", "WoodFlooringService\WoodFlooringService.csproj", "{98032634-0C9B-4ACD-AF3B-CAFEA6617179}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98032634-0C9B-4ACD-AF3B-CAFEA6617179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98032634-0C9B-4ACD-AF3B-CAFEA6617179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98032634-0C9B-4ACD-AF3B-CAFEA6617179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98032634-0C9B-4ACD-AF3B-CAFEA6617179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7964EE64-CB3E-4ADB-BC6D-9FB28EBA62FB}
+	EndGlobalSection
+EndGlobal
